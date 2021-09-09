@@ -1,0 +1,11 @@
+################################### GIT ################################
+alias gs="git status"
+alias gck="git checkout"
+alias gm="git merge --squash"
+alias gd="git diff --full-index"
+alias gc="git commit"
+alias gcm="git commit -m"
+alias ga="git add"
+alias gb="git branch"
+alias gl="git log"
+alias gac="git commit -am"
