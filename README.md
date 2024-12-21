@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Noushadali
 - 👀 I’m interested in ... Python
-- 🌱 I’m currently learning Kotlin/Android Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... noushadaliam@gmail.com
 
